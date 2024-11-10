@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Misbah
+- 👀 I’m interested in Web Development and UI Design
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 How to reach me: [uxmisbahh@gmail.com](mailto:@uxmisbahh@gmail.com) or [LinkedIn](https://www.linkedin.com/in/uxmisbahh)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new technologies!
